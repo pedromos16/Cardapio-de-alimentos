@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>cardapio-de-alimentos</artifactId>
+	<artifactId>back-cardapio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cardapio-de-alimentos</name>
+	<name>back-cardapio</name>
 	<description>Criacao de um cardapio de alimentos</description>
 	<properties>
 		<java.version>17</java.version>
