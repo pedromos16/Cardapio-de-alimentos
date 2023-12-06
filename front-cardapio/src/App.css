@@ -32,3 +32,9 @@
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 7px 0px;
     transform: scale(1.1);
 }
+
+/* Adicione essas regras ao seu arquivo de estilo (modal.css) */
+
+.modal-body h2 {
+    color: #000; /* Altere para a cor desejada para tornar o texto visível */
+}
